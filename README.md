@@ -2,7 +2,7 @@
 
 ![](showcase.png)
 
-*在 AlphaGPT 开源后，社区曾使用开源版本管理了 1.6 亿人民币规模。*
+*在 AlphaGPT 开源后，社区曾使用开源版本管理了 1.66 亿人民币规模资金。*
 
 ## Star History
 
